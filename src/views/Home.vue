@@ -13,7 +13,7 @@ export default {
   name: 'home',
   data () {
     return {
-      welcome: "Welcome in a Vue World my dear friend!"
+      welcome: "Welcome to GitHub connected project!"
     }
   },
   components: {
