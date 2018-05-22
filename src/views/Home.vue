@@ -13,7 +13,7 @@ export default {
   name: 'home',
   data () {
     return {
-      welcome: "Welcome to GitHub connected project!"
+      welcome: "Hello World!"
     }
   },
   components: {
